@@ -1,1 +1,1 @@
-Project: tsp
+Project: tsp 22 points
